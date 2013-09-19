@@ -1,0 +1,25 @@
+{
+  "name": "hackerNews",
+  "version": "0.0.0",
+  "homepage": "https://github.com/twilson63/hackerNews",
+  "authors": [
+    "Tom Wilson <tom@jackhq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "angular": "v1.2.0-rc.2",
+    "angular-fire": "~0.3.1",
+    "angular-route": "~1.2.0-rc.2",
+    "angular-animate": "~1.2.0-rc.2",
+    "angularjs-gravatar": "*",
+    "angular-mocks": "1.2.0-rc.2"
+  }
+}
